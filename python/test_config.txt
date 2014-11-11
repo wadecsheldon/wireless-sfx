@@ -1,0 +1,14 @@
+n| baud:	57600
+n| port:	12
+n| timeout:	1
+s| effectfile:	C:\Users\Wade Charles\Music\Drama\Les Mis\SFX\Flintlock Musket.wav
+k| guna:	effectfile
+k| gunb:	effectfile
+k| gunc:	effectfile
+k| gund:	effectfile
+k| gune:	effectfile
+k| gunf:	effectfile
+k| gung:	effectfile
+k| gunh:	effectfile
+k| guni:	effectfile
+k| gunj:	effectfile
